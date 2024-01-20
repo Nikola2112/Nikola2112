@@ -17,7 +17,7 @@ where I can implement my programming skills and reach my potential.
 
 - :seedling: Did a little internship at Legal&General.
 
-- :zap: Motivated to participate in interesting projects
+- :zap: Open to cooperation.
 
 - :mailbox: How to contact me : [![Telegram Badge](https://img.shields.io/badge/-Nickolai-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/flashman8898) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](nikola21122004@gmail.com)
 
