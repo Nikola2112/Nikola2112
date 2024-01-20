@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi,my name is Nick!
 
-<!--
-**Nikola2112/Nikola2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Driven and detail-oriented programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+specializing in Java development and troubleshooting complex software
+issues. Seeking to collaborate with a professional team of programmers
+where I can implement my programming skills and reach my potential.
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :telescope: Studied Junior Java at Go-IT. 
+
+- :seedling: Did a little internship at Legal&General.
+
+- :zap: Motivated to participate in interesting projects
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/flashman8898) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](nikola21122004@gmail.com)
