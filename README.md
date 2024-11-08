@@ -13,9 +13,9 @@ where I can implement my programming skills and reach my potential.
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Studied Junior Java at Go-IT. 
+- :telescope:
 
-- :seedling: Did a little internship at Legal&General.
+- :seedling: 
 
 - :zap: Open to cooperation.
 
